@@ -163,8 +163,8 @@ cython_debug/
 # Sanal ortam
 env/
 
-# Rasa modelleri
-models/
+
+
 
 # Python cache dosyaları
 __pycache__/
